@@ -8,7 +8,7 @@ This project implements an end-to-end machine learning pipeline that detects obj
 
 ## Demo Video
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)]([[https://youtu.be/YOUR_VIDEO_ID](https://www.youtube.com/watch?v=tTFjxWUiA8g&ab_channel=OronPaz))]
+[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=tTFjxWUiA8g&ab_channel=OronPaz)]
 
 
 ## Features
