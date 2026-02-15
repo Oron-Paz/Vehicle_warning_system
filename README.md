@@ -26,14 +26,12 @@ This project implements an end-to-end machine learning pipeline that detects obj
 ## Sample Results
 
 ### Model Detection in Action
-*[Add screenshots of your model detecting objects in dashcam footage]*
 
 ![Detection Example 1](yolo_project_backup/val_batch0_pred.jpg)
 
 ![Detection Example 2](yolo_project_backup/val_batch2_pred.jpg)
 
 ### Training Results
-*[Add your training validation plots and confusion matrix]*
 
 ![Training Results](yolo_project_backup/results.png)
 *Training and validation loss curves*
@@ -79,17 +77,3 @@ This project implements an end-to-end machine learning pipeline that detects obj
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements!
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Udacity for providing the self-driving car dataset
-- Ultralytics for the YOLOv8 implementation
-- The computer vision and autonomous vehicle communities for inspiration
-
----
-
-**Note**: This is a learning project and not intended for production use in actual vehicles. Always prioritize safety and use proper automotive-grade systems for real-world applications.
